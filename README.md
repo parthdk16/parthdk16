@@ -1,5 +1,4 @@
-## Hi there 👋
-## I’m Parth Kulkarni!
+## Hi there! 👋 I’m Parth Kulkarni!
 
 🔭 I’m interested in Tech and AIML.
 🌱 I’m currently learning and implementing various technologies to solve real-world problems.
