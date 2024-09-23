@@ -1,5 +1,11 @@
 ## Hi there 👋
+I’m Parth Kulkarni!
 
+🔭 I’m interested in Tech and AIML.
+🌱 I’m currently learning and implementing various technologies to solve real-world problems.
+👯 I’m looking to collaborate on some ML-based projects.
+
+Reach out to me on [LinkedIn]([url](https://www.linkedin.com/in/parthkulkarni16/)) 
 <!--
 **parthdk16/parthdk16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
