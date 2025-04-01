@@ -2,7 +2,7 @@
 
 - 🔭 I’m interested in Tech and AIML.
 - 🌱 I’m currently learning and implementing various technologies to solve real-world problems.
-- 👯 I’m looking to collaborate on some ML-based projects.
+- 👯 I’m looking to collaborate on some web and ML-based projects.
 
 - Reach out to me on [LinkedIn](https://www.linkedin.com/in/parthkulkarni16/)
 <!--
